@@ -20,7 +20,7 @@ QUẢN LÝ ĐỒ ÁN ASP.NET
 ## 📁 Cấu trúc thư mục
 
 ```
-├├── README.md       # File giới thiệu dự án
+├── README.md       # File giới thiệu dự án
 ├── setup/           # Cài đặt và dữ liệu thử
 ├── src/             # Mã nguồn chính của dự án
 ├── thesis/          # Tài liệu đồ án
